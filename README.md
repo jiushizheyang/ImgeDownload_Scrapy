@@ -1,0 +1,2 @@
+# ImgeDownload_Scrapy
+使用scrapy框架爬取图站对应标签的图片下载到本地
